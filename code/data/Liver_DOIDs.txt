@@ -1,0 +1,201 @@
+DOID	Definition
+DOID_3755	antithrombin III deficiency
+DOID_899	choledochal cyst
+DOID_9740	postcholecystectomy syndrome
+DOID_0050625	biliary tract neoplasm
+DOID_13133	HELLP syndrome
+DOID_12236	primary biliary cirrhosis
+DOID_5381	bile duct adenoma
+DOID_893	Wilson disease
+DOID_5016	hepatocellular clear cell carcinoma
+DOID_271	hemangioma of liver
+DOID_5015	fibrolamellar carcinoma
+DOID_9439	chronic cholangitis
+DOID_13738	hepatic infarction
+DOID_0111057	platelet-type bleeding disorder 11
+DOID_4138	bile duct disease
+DOID_3120	gallbladder papillomatosis
+DOID_2044	drug-induced hepatitis
+DOID_10201	gallbladder lipoma
+DOID_409	liver disease
+DOID_14018	alcoholic liver cirrhosis
+DOID_12237	bile reflux
+DOID_2828	acalculous cholecystitis
+DOID_8022	liver fibrosarcoma
+DOID_7503	extrahepatic bile duct papillary adenoma
+DOID_12259	hemophilia B
+DOID_2237	hepatitis
+DOID_918	liver inflammatory pseudotumor
+DOID_3120	gallbladder papillomatosis
+DOID_2236	congenital afibrinogenemia
+DOID_11823	hepatorenal syndrome
+DOID_11755	choledocholithiasis
+DOID_4607	biliary tract cancer
+DOID_5296	liver leiomyosarcoma
+DOID_5022	aflatoxins-related hepatocellular carcinoma
+DOID_5438	extrahepatic bile duct adenoma
+DOID_13608	biliary atresia
+DOID_5026	sclerosing hepatic carcinoma
+DOID_12351	alcoholic hepatitis
+DOID_0050436	mulibrey nanism
+DOID_0080208	nonalcoholic fatty liver disease
+DOID_12215	oligohydramnios
+DOID_13767	clonorchiasis
+DOID_9717	hydrops of gallbladder
+DOID_11695	portal vein thrombosis
+DOID_14272	pericholangitis
+DOID_11512	Budd-Chiari syndrome
+DOID_2239	granulomatous hepatitis
+DOID_917	liver leiomyoma
+DOID_0111044	gray platelet syndrome
+DOID_0111045	platelet-type bleeding disorder 9
+DOID_0111046	platelet-type bleeding disorder 10
+DOID_5016	hepatocellular clear cell carcinoma
+DOID_10211	cholelithiasis
+DOID_4140	biliary dyskinesia
+DOID_9245	Alagille syndrome
+DOID_270	liver sarcoma
+DOID_14018	alcoholic liver cirrhosis
+DOID_0111049	platelet-type bleeding disorder 17
+DOID_0080177	hepatic veno-occlusive disease
+DOID_8105	extrahepatic bile duct cystadenoma
+DOID_686	liver carcinoma
+DOID_6733	intrahepatic bile duct cystadenoma
+DOID_6733	intrahepatic bile duct cystadenoma
+DOID_0050893	gallbladder adenoma
+DOID_5296	liver leiomyosarcoma
+DOID_686	liver carcinoma
+DOID_9245	Alagille syndrome
+DOID_3317	hepatic angiomyolipoma
+DOID_13409	perforation of bile duct
+DOID_2044	drug-induced hepatitis
+DOID_10190	liver lipoma
+DOID_14271	acute cholangitis
+DOID_916	liver neoplasm
+DOID_9766	xanthogranulomatous cholecystitis
+DOID_8230	intrahepatic biliary papillomatosis
+DOID_0111056	platelet-type bleeding disorder 3
+DOID_0111055	platelet-type bleeding disorder 20
+DOID_0111047	platelet-type bleeding disorder 14
+DOID_0111053	platelet-type bleeding disorder 15
+DOID_0111052	Scott syndrome
+DOID_0111051	platelet-type bleeding disorder 18
+DOID_0111050	Quebec platelet disorder
+DOID_5438	extrahepatic bile duct adenoma
+DOID_5468	biliary papillomatosis
+DOID_0111058	platelet-type bleeding disorder 12
+DOID_687	hepatoblastoma
+DOID_0050204	Epstein-Barr virus hepatitis
+DOID_684	hepatocellular carcinoma
+DOID_1852	intrahepatic cholestasis
+DOID_9132	liver carcinoma in situ
+DOID_5437	intrahepatic bile duct adenoma
+DOID_0050204	Epstein-Barr virus hepatitis
+DOID_901	liver lymphoma
+DOID_6370	hepatic osteogenic sarcoma
+DOID_900	hepatopulmonary syndrome
+DOID_901	liver lymphoma
+DOID_14270	ascending cholangitis
+DOID_4047	liver rhabdomyosarcoma
+DOID_907	liver fibroma
+DOID_1884	viral hepatitis
+DOID_2239	granulomatous hepatitis
+DOID_5125	extrahepatic bile duct leiomyoma
+DOID_12148	alveolar echinococcosis
+DOID_0050876	Caroli disease
+DOID_3317	hepatic angiomyolipoma
+DOID_5469	biliary tract intraductal papillary mucinous neoplasm
+DOID_2215	factor VII deficiency
+DOID_1495	cystic echinococcosis
+DOID_0050218	polycystic echinococcosis
+DOID_13619	extrahepatic cholestasis
+DOID_11151	cholecystolithiasis
+DOID_407	hepatic tuberculosis
+DOID_12237	bile reflux
+DOID_918	liver inflammatory pseudotumor
+DOID_0050770	polycystic liver disease
+DOID_5468	biliary papillomatosis
+DOID_917	liver leiomyoma
+DOID_916	liver neoplasm
+DOID_914	peliosis hepatis
+DOID_13739	nutmeg liver
+DOID_5384	bile duct cystadenoma
+DOID_13409	perforation of bile duct
+DOID_0080208	nonalcoholic fatty liver disease
+DOID_1496	echinococcosis
+DOID_11823	hepatorenal syndrome
+DOID_5384	bile duct cystadenoma
+DOID_0111041	glycogen storage disease IXb
+DOID_14268	sclerosing cholangitis
+DOID_3117	hepatobiliary benign neoplasm
+DOID_4608	common bile duct neoplasm
+DOID_12236	primary biliary cirrhosis
+DOID_10209	extrahepatic bile duct lipoma
+DOID_8022	liver fibrosarcoma
+DOID_13129	severe pre-eclampsia
+DOID_2214	inherited blood coagulation disease
+DOID_5469	biliary tract intraductal papillary mucinous neoplasm
+DOID_1247	blood coagulation disease
+DOID_0050893	gallbladder adenoma
+DOID_4137	common bile duct disease
+DOID_10201	gallbladder lipoma
+DOID_0060643	primary sclerosing cholangitis
+DOID_268	liver angiosarcoma
+DOID_10762	portal hypertension
+DOID_893	Wilson disease
+DOID_5082	liver cirrhosis
+DOID_2237	hepatitis
+DOID_0050625	biliary tract neoplasm
+DOID_1495	cystic echinococcosis
+DOID_0111048	platelet-type bleeding disorder 19
+DOID_14269	suppurative cholangitis
+DOID_5381	bile duct adenoma
+DOID_11755	choledocholithiasis
+DOID_12351	alcoholic hepatitis
+DOID_9714	occlusion of gallbladder
+DOID_8230	intrahepatic biliary papillomatosis
+DOID_9452	fatty liver disease
+DOID_7503	extrahepatic bile duct papillary adenoma
+DOID_2222	factor X deficiency
+DOID_10254	strawberry gallbladder
+DOID_3118	hepatobiliary disease
+DOID_13603	obstructive jaundice
+DOID_1852	intrahepatic cholestasis
+DOID_4047	liver rhabdomyosarcoma
+DOID_7752	extrahepatic biliary papillomatosis
+DOID_409	liver disease
+DOID_4608	common bile duct neoplasm
+DOID_5437	intrahepatic bile duct adenoma
+DOID_7752	extrahepatic biliary papillomatosis
+DOID_6370	hepatic osteogenic sarcoma
+DOID_13739	nutmeg liver
+DOID_13738	hepatic infarction
+DOID_10190	liver lipoma
+DOID_9740	postcholecystectomy syndrome
+DOID_9741	biliary tract disease
+DOID_12531	von Willebrand's disease
+DOID_8105	extrahepatic bile duct cystadenoma
+DOID_885	fascioliasis
+DOID_900	hepatopulmonary syndrome
+DOID_270	liver sarcoma
+DOID_0060692	platelet-type bleeding disorder 8
+DOID_0060691	platelet-type bleeding disorder 16
+DOID_0060227	Adams-Oliver syndrome
+DOID_2211	factor XIII deficiency
+DOID_2213	hemorrhagic disease
+DOID_2212	coagulation protein disease
+DOID_9765	emphysematous cholecystitis
+DOID_2452	thrombophilia
+DOID_2217	Bernard-Soulier syndrome
+DOID_2216	factor V deficiency
+DOID_2219	Glanzmann's thrombasthenia
+DOID_10209	extrahepatic bile duct lipoma
+DOID_0111146	acquired von Willebrand syndrome
+DOID_907	liver fibroma
+DOID_272	hepatic vascular disease
+DOID_1884	viral hepatitis
+DOID_0111155	autosomal recessive spinocerebellar ataxia 21
+DOID_5082	liver cirrhosis
+DOID_3571	liver cancer
+DOID_0060643	primary sclerosing cholangitis
+DOID_3756	protein C deficiency

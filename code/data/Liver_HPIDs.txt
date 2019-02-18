@@ -1,0 +1,135 @@
+HPOID	Definition
+HP_0012113	Abnormality of creatine metabolism
+HP_0006554	Acute hepatic failure
+HP_0031207	Hepatic hemangioma
+HP_0001622	Premature birth
+HP_0006581	Depletion of mitochondrial DNA in liver
+HP_0002480	Hepatic encephalopathy
+HP_0006559	Hepatic calcification
+HP_0006554	Acute hepatic failure
+HP_0001405	Periportal fibrosis
+HP_0000877	Insulin-resistant diabetes mellitus at puberty
+HP_0001399	Hepatic failure
+HP_0200084	Giant cell hepatitis
+HP_0006577	Macronodular cirrhosis
+HP_0001399	Hepatic failure
+HP_0007985	Retinal arteriolar occlusion
+HP_0006573	Acute hepatic steatosis
+HP_0006572	Subacute progressive viral hepatitis
+HP_0002884	Hepatoblastoma
+HP_0030365	Vaginal birth after Caesarian
+HP_0200123	Chronic hepatitis
+HP_0011005	Mixed cirrhosis
+HP_0008150	Elevated serum transaminases during infections
+HP_0045061	Decreased carnitine level in liver
+HP_0004297	Abnormality of the biliary system
+HP_0000857	Neonatal insulin-dependent diabetes mellitus
+HP_0001397	Hepatic steatosis
+HP_0100752	Abnormal liver lobulation
+HP_0001412	Enteroviral hepatitis
+HP_0200122	Atypical or prolonged hepatitis
+HP_0011410	Caesarian section
+HP_0031144	Coarsened hepatic echotexture
+HP_0031145	Starry sky appearance on hepatic sonography
+HP_0031142	Abnormal hepatic echogenicity
+HP_0030146	Abnormal liver parenchyma morphology
+HP_0031140	Abnormal liver sonography
+HP_0006557	Polycystic liver disease
+HP_0002910	Elevated hepatic transaminases
+HP_0006706	Cystic liver disease
+HP_0001402	Hepatocellular carcinoma
+HP_0006566	Neonatal cholestatic liver disease
+HP_0200084	Giant cell hepatitis
+HP_0005267	Premature delivery because of cervical insufficiency or membrane fragility
+HP_0030243	Hepatic vein thrombosis
+HP_0012280	Hepatic amyloidosis
+HP_0001410	Decreased liver function
+HP_0030364	Secondary Caesarian section
+HP_0012115	Hepatitis
+HP_0100626	Chronic hepatic failure
+HP_0002614	Hepatic periportal necrosis
+HP_0001433	Hepatosplenomegaly
+HP_0011411	Forceps delivery
+HP_0002612	Congenital hepatic fibrosis
+HP_0006557	Polycystic liver disease
+HP_0006555	Diffuse hepatic steatosis
+HP_0004448	Fulminant hepatic failure
+HP_0030363	Primary Caesarian section
+HP_0011419	Placental abruption
+HP_0008043	Retinal arteriolar constriction
+HP_0012028	Hepatocellular adenoma
+HP_0004448	Fulminant hepatic failure
+HP_0006568	Increased hepatic glycogen content
+HP_0011954	Nodular regenerative hyperplasia of liver
+HP_0012465	Elevated hepatic iron concentration
+HP_0410042	Abnormal liver morphology
+HP_0011412	Ventouse delivery
+HP_0001404	Hepatocellular necrosis
+HP_0012465	Elevated hepatic iron concentration
+HP_0001394	Cirrhosis
+HP_0001407	Hepatic cysts
+HP_0002612	Congenital hepatic fibrosis
+HP_0200119	Acute hepatitis
+HP_0001414	Microvesicular hepatic steatosis
+HP_0010639	Elevated alkaline phosphatase of bone origin
+HP_0010638	Elevated alkaline phosphatase of hepatic origin
+HP_0010638	Elevated alkaline phosphatase of hepatic origin
+HP_0012028	Hepatocellular adenoma
+HP_0001978	Extramedullary hematopoiesis
+HP_0006575	Intrahepatic cholestasis with episodic jaundice
+HP_0011413	Shoulder dystocia
+HP_0001405	Periportal fibrosis
+HP_0004787	Fulminant hepatitis
+HP_0010686	Low alkaline phosphatase of hepatic origin
+HP_0001402	Hepatocellular carcinoma
+HP_0001403	Macrovesicular hepatic steatosis
+HP_0005100	Premature birth following premature rupture of fetal membranes
+HP_0002896	Neoplasm of the liver
+HP_0010860	Complete breech presentation
+HP_0010861	Incomplete breech presentation
+HP_0001395	Hepatic fibrosis
+HP_0030449	Therapeutic abortion
+HP_0006558	Decreased mitochondrial complex III activity in liver tissue
+HP_0007111	Chronic hepatic encephalopathy
+HP_0030369	Induced vaginal delivery
+HP_0030009	Cervical insufficiency
+HP_0001413	Micronodular cirrhosis
+HP_0001406	Intrahepatic cholestasis
+HP_0100839	Hepatic agenesis
+HP_0006583	Fatal liver failure in infancy
+HP_0010680	Elevated alkaline phosphatase of renal origin
+HP_0010679	Elevated tissue non-specific alkaline phosphatase
+HP_0006574	Hepatic arteriovenous malformation
+HP_0005507	Hemoglobin Barts
+HP_0040134	Abnormal hepatic iron concentration
+HP_0006562	Viral hepatitis
+HP_0002605	Hepatic necrosis
+HP_0005237	Degenerative liver disease
+HP_0001392	Abnormality of the liver
+HP_0006583	Fatal liver failure in infancy
+HP_0012852	Hepatic bridging fibrosis
+HP_0002896	Neoplasm of the liver
+HP_0030363	Primary Caesarian section
+HP_0030364	Secondary Caesarian section
+HP_0004787	Fulminant hepatitis
+HP_0002613	Biliary cirrhosis
+HP_0005267	Premature delivery because of cervical insufficiency or membrane fragility
+HP_0002240	Hepatomegaly
+HP_0012022	Congenital portosystemic venous shunt
+HP_0001623	Breech presentation
+HP_0011955	Hepatic granulomatosis
+HP_0002611	Cholestatic liver disease
+HP_0000831	Insulin-resistant diabetes mellitus
+HP_0200148	Abnormal liver function tests during pregnancy
+HP_0002884	Hepatoblastoma
+HP_0012498	Nuchal cord
+HP_0012334	Extrahepatic cholestasis
+HP_0006564	Fluctuating hepatomegaly
+HP_0006566	Neonatal cholestatic liver disease
+HP_0006564	Fluctuating hepatomegaly
+HP_0006562	Viral hepatitis
+HP_0200148	Abnormal liver function tests during pregnancy
+HP_0010859	Frank breech presentation
+HP_0100523	Liver abscess
+HP_0100752	Abnormal liver lobulation
+HP_0030366	Delivery by Odon device
