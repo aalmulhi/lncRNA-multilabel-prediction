@@ -6,7 +6,7 @@ Almulhim, Aljohara
 ------------------------------------------------------------------------------------------------------
 PreProcessing: Filtring and Cascading processes
 ------------------------------------------------------------------------------------------------------
-To Run: python pro_data.py data/ENSG_HPID_labels.txt data/ENSG_DOID_labels.txt data/Liver_HPIDs.txt data/Liver_DOIDs.txt data/lncRNA_ENSG.txt data/LIHC_matrix.txt data/HPID_height.txt data/DOID_height.txt data/HPID_child_parent.txt data/DOID_child_parent.txt
+To Run: python pro_data.py ENSG_HPID_labels.txt ENSG_DOID_labels.txt Liver_HPIDs.txt Liver_DOIDs.txt lncRNA_ENSG.txt LIHC_matrix.txt HPID_height.txt DOID_height.txt HPID_child_parent.txt DOID_child_parent.txt
 
 ENSG_HPID_labels.txt: The labeled ENSG_IDs with HPID_tags from literature
 File format: ENSG_ID1 HPID1;HPID2;...
@@ -36,18 +36,22 @@ File format: DOID_child1 \t DOID_parent1|DOID_parent2|DOID_parent3 ..
 ------------------------------------------------------------------------------------------------------
 Model: Neural Network
 ------------------------------------------------------------------------------------------------------
-To run: Python NN_model.py pro_data/LIHC_train.csv pro_data/Liver_tag.csv pro_data/Liver_Depth.csv pro_data/LIHC_test.csv pro_data/tag_lst.csv pro_data/lncRNA_lst.csv 0.01 2000 100 100 pro_data/log.txt
-LIHC_test_data: Our training data in which rows are number of patients samples and the columns are ENSG_gene IDs
+To run: Python NN_model.py LIHC_train Tag_matrix Tag_depth LncRNA_test tag_list lncRNA_lst Learning_rate Number_of_epochs Batch_size Hidden_unit_number log_file
+LIHC_train: Our training data in which rows are number of patients samples and the columns are ENSG_gene IDs
 Tag_matrix: pass the tag_matrix or the TE_tag_matrix where the rows are ENSG_gene IDs and the columns are the tags
-Height file: list of tags and their depth(Height) based on the tag tree
-LIHC_test_data: Our testing data where we predict for each lncRNAs number of tags. It has number of patients samples as rows and lncRNA_IDs as columns
+Tag_depth: list of tags and their depth(Height) based on the tag tree
+LncRNA_test: Our testing data where we predict for each lncRNAs number of tags. It has number of patients samples as rows and lncRNA_IDs as columns
 Liver_tag_lst= Liver tags list
 lncRNA_lst = lncRNA list
-Learning rate: 0.0001-0.01
-Hidden unit numbers: 100-400
-Batch size: 50-150
-Number of epochs: 100-200
-log.txt: Log of loss function values
+Learning_rate: 0.0001-0.01
+Hidden_unit_numbers: 100-400
+Batch_size: 50-150
+Number_of_epochs: 100-2500
+log_file: Log of loss function values
 ------------------------------------------------------------------------------------------------------
 Predictions: Thresholds and consistency 
 ------------------------------------------------------------------------------------------------------
+python process_pred.py prediction_prob liver_dict p
+prediction_prob: the predictions probabilities
+liver_dict: ancestor-descendant liver dictionary
+p: Threshold 
