@@ -47,7 +47,7 @@ Learning rate: 0.0001-0.01
 Hidden unit numbers: 100-400
 Batch size: 50-150
 Number of epochs: 100-200
-
+log.txt: Log of loss function values
 ------------------------------------------------------------------------------------------------------
 Predictions: Thresholds and consistency 
 ------------------------------------------------------------------------------------------------------
