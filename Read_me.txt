@@ -37,6 +37,7 @@ File format: DOID_child1 \t DOID_parent1|DOID_parent2|DOID_parent3 ..
 Model: Neural Network
 ------------------------------------------------------------------------------------------------------
 To run: Python NN_model.py LIHC_train Tag_matrix Tag_depth LncRNA_test tag_list lncRNA_lst Learning_rate Number_of_epochs Batch_size Hidden_unit_number log_file
+
 LIHC_train: Our training data (patients samples * ENSG_gene IDs)
 Tag_matrix: pass the tag_matrix or the TE_tag_matrix (ENSG_gene IDs *  liver_tags)
 Tag_depth: list of tags and their depth(Height) based on the tag tree
@@ -51,7 +52,8 @@ log_file: Log of loss function values
 ------------------------------------------------------------------------------------------------------
 Predictions: Thresholds and consistency 
 ------------------------------------------------------------------------------------------------------
-python post_process_pred.py prediction_prob liver_dict p
+To run: python post_process_pred.py prediction_prob liver_dict p
+
 prediction_prob: the predictions probabilities (lncRnas_IDs * Tag_IDs)
 liver_dict: ancestor-descendant liver dictionary
 p: Threshold (0.50-0.95)
