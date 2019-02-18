@@ -1,11 +1,12 @@
 
-Genome-Scale Multilabel Prediction for Tissue-specific Annotation of LongNon-coding RNAs
+Genome-Scale Multilabel Prediction for Tissue-specific Annotation of Long
+Non-coding RNAs
 Submitted to Great Lakes Bioinformatics Conference 2019
 Almulhim, Aljohara
 ------------------------------------------------------------------------------------------------------
 PreProcessing: Filtring and Cascading processes
 ------------------------------------------------------------------------------------------------------
-Python pro_data.py data/ENSG_HPID_labels.txt data/ENSG_DOID_labels.txt data/Liver_HPIDs.txt data/Liver_DOIDs.txt data/lncRNA_ENSG.txt data/LIHC_matrix.txt data/HPID_height.txt data/DOID_height.txt data/HPID_child_parent.txt data/DOID_child_parent.txt
+To Run: python pro_data.py data/ENSG_HPID_labels.txt data/ENSG_DOID_labels.txt data/Liver_HPIDs.txt data/Liver_DOIDs.txt data/lncRNA_ENSG.txt data/LIHC_matrix.txt data/HPID_height.txt data/DOID_height.txt data/HPID_child_parent.txt data/DOID_child_parent.txt
 
 ENSG_HPID_labels.txt: The labeled ENSG_IDs with HPID_tags from literature
 File format: ENSG_ID1 HPID1;HPID2;...
@@ -35,7 +36,7 @@ File format: DOID_child1 \t DOID_parent1|DOID_parent2|DOID_parent3 ..
 ------------------------------------------------------------------------------------------------------
 Model: Neural Network
 ------------------------------------------------------------------------------------------------------
-Python NN_model.py LIHC_train_data Tag_matrix Height_file LIHC_test_data Liver_tag_lst lncRNA_lst learning_rate epoch_num batch_size hidden_units_num results/log.txt
+To run: python NN_model.py LIHC_train_data Tag_matrix Height_file LIHC_test_data Liver_tag_lst lncRNA_lst learning_rate epoch_num batch_size hidden_units_num results/log.txt
 LIHC_test_data: Our training data in which rows are number of patients samples and the columns are ENSG_gene IDs
 Tag_matrix: pass the tag_matrix or the TE_tag_matrix where the rows are ENSG_gene IDs and the columns are the tags
 Height file: list of tags and their depth(Height) based on the tag tree
