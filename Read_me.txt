@@ -36,7 +36,7 @@ File format: DOID_child1 \t DOID_parent1|DOID_parent2|DOID_parent3 ..
 ------------------------------------------------------------------------------------------------------
 Model: Neural Network
 ------------------------------------------------------------------------------------------------------
-To run: python NN_model.py LIHC_train_data Tag_matrix Height_file LIHC_test_data Liver_tag_lst lncRNA_lst learning_rate epoch_num batch_size hidden_units_num results/log.txt
+To run: Python NN_model.py pro_data/LIHC_train.csv pro_data/Liver_tag.csv pro_data/Liver_Depth.csv pro_data/LIHC_test.csv pro_data/tag_lst.csv pro_data/lncRNA_lst.csv 0.01 2000 100 100 pro_data/log.txt
 LIHC_test_data: Our training data in which rows are number of patients samples and the columns are ENSG_gene IDs
 Tag_matrix: pass the tag_matrix or the TE_tag_matrix where the rows are ENSG_gene IDs and the columns are the tags
 Height file: list of tags and their depth(Height) based on the tag tree
