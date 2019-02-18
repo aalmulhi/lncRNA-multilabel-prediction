@@ -206,7 +206,7 @@ def main():
                 LIHC_train,Liver_tag_df= filter_process(LIHC_train,Liver_tag_df)
                 tag_lst= list(Liver_tag_df.columns.values)
                 gene_lst= list(Liver_tag_df.index.values)
-                
+                lncRna_test_lst= (list(LIHC_test.columns.values))
                 print "Step1: filtring process is done.."
 
                 DOID_Hg_lst= read_depth(fn7)
@@ -231,7 +231,7 @@ def main():
                 store_df(Hg_df,'pro_data/Liver_Depth.csv')
                 store_df(Liver_TE_tag_df,'pro_data/Liver_TE_tag.csv')
                 store_lst("pro_data/tag_lst.csv", tag_lst)
-                store_lst("pro_data/lncRNA_lst.csv", lncRNA_IDs)
+                store_lst("pro_data/lncRNA_lst.csv", lncRna_test_lst)
                 
                 print "Saving files is done .."
                             
