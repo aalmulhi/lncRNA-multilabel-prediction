@@ -165,6 +165,17 @@ def cascading_process(Liver_tag_df,anst_desc_dict):
                             pass
     return Liver_tag_df
 
+#store anst_desc dict
+def store_dict(fn,d):
+    '''
+    with open(fn, "w") as file:
+        for k, v in d.items():
+            dictionary_content = k + "\t" + str(v) + "\n"
+            file.write(dictionary_content)
+    print "done"
+    '''
+    with open(fn, 'wb') as handle:
+        pickle.dump(d, handle, protocol=pickle.HIGHEST_PROTOCOL)
 def main():
         if len(sys.argv) < 11:
                 print "Enter files as following:"
@@ -232,7 +243,8 @@ def main():
                 store_df(Liver_TE_tag_df,'pro_data/Liver_TE_tag.csv')
                 store_lst("pro_data/tag_lst.csv", tag_lst)
                 store_lst("pro_data/lncRNA_lst.csv", lncRna_test_lst)
-                
+                store_dict("pro_data/Liver_anst_desc_dict.pickle",anst_desc_dict)
+		
                 print "Saving files is done .."
                             
 main();
