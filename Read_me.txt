@@ -6,7 +6,7 @@ Almulhim, Aljohara
 ------------------------------------------------------------------------------------------------------
 PreProcessing: Filtring and Cascading processes
 ------------------------------------------------------------------------------------------------------
-To Run: python pro_data.py ENSG_HPID_labels.txt ENSG_DOID_labels.txt Liver_HPIDs.txt Liver_DOIDs.txt lncRNA_ENSG.txt LIHC_matrix.txt HPID_height.txt DOID_height.txt HPID_child_parent.txt DOID_child_parent.txt
+To Run: python pro_data.py ENSG_HPID_labels ENSG_DOID_labels Liver_HPIDs Liver_DOIDs lncRNA_ENSG LIHC_matrix HPID_height DOID_height HPID_child_parent DOID_child_parent
 
 ENSG_HPID_labels.txt: The labeled ENSG_IDs with HPID_tags from literature
 File format: ENSG_ID1 HPID1;HPID2;...
